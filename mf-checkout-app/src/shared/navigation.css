@@ -1,0 +1,20 @@
+.item-total-box {
+  position: absolute;
+  top: -50%;
+  right: -60%;
+  padding: 4px;
+  height: 24px;
+  width: 24px;
+  display: flex;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+a.cart-link {
+  text-decoration: none;
+  display: inline-flex;
+  color: #4a4a4a;
+}
